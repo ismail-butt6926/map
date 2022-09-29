@@ -1,0 +1,23 @@
+/* .leaflet-container {
+    width: 100%;
+    height: 100vh;
+  }
+   */
+/* 
+   .leaflet-container {
+    height: 62vh !important
+} */
+/* 
+.leaflet-container{
+    height: 300px !important; 
+    width: 100%;
+    border: 2px solid black;
+  }  */
+  /* .map {
+    height: 450px;
+    width: 450px;
+  } */
+
+  .leaflet-container {
+    height: 62vh !important
+}
